@@ -10,7 +10,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 | **Day 1** | **2025-06-10**
 | 9:00 AM   | [Welcome, Introductions and Getting Started](#../slides/2025-06-10_welcome-introduction.pdf)
 | 10:00 AM  | Introduction/Refresher to Single-cell Analysis with R and Bioconductor
-|           | [Single-cell Analysis with R slides (PDF)](#../slides/2025-06-10_scRNAseq-data-intro.pdf)
+|           | [Single-cell Analysis with R slides (PDF)](../slides/2025-06-10_scRNAseq-data-intro.pdf)
 |           | [Instruction notebook](../completed-notebooks/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html)
 | 11:15 AM  | *Coffee break*
 | 11:30 AM  | Introduction/Refresher to Single-cell Analysis, continued
@@ -29,7 +29,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 | **Day 2** | **2025-06-11**
 | 9:00 AM   | Questions and Review
 | 9:30 AM   | Differential Expression Analysis with scRNA-seq
-|           | [Differential Expression slides (PDF)](#../slides/2025-06-11_differential-expression.pdf)
+|           | [Differential Expression slides (PDF)](../slides/2025-06-11_differential-expression.pdf)
 |           | [Instruction notebook](../completed-notebooks/scRNA-seq-advanced/03-differential_expression.nb.html)
 | 11:00 AM  | *Coffee break*
 | 11:15 AM  | Differential Expression Analysis, continued
