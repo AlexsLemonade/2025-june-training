@@ -8,7 +8,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 | Time      | Topic
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | **Day 1** | **2025-06-10**
-| 9:00 AM   | [Welcome, Introductions and Getting Started](#../slides/2025-06-10_welcome-introduction.pdf)
+| 9:00 AM   | [Welcome, Introductions and Getting Started](../slides/2025-06-10_welcome-introduction.pdf)
 | 10:00 AM  | Introduction/Refresher to Single-cell Analysis with R and Bioconductor
 |           | [Single-cell Analysis with R slides (PDF)](../slides/2025-06-10_scRNAseq-data-intro.pdf)
 |           | [Instruction notebook](../completed-notebooks/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html)
