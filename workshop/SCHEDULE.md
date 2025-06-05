@@ -43,7 +43,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 | **Day 3** | **2025-06-12**
 | 9:00 AM   | Questions and Review
 | 9:30 AM   | Pathway Analysis
-|           | [Pathway Analysis Slides (PDF)](#../slides/2025-06-12_pathway-analysis.pdf)
+|           | [Pathway Analysis Slides (PDF)](../slides/2025-06-12_pathway-analysis.pdf)
 |           | [Instruction notebook: Gene Set Enrichment Analysis (GSEA)](../completed-notebooks/scRNA-seq-advanced/04-gene_set_enrichment_analysis.nb.html)
 | 11:00 AM  | *Coffee break*
 | 11:15 AM  | [Instruction notebook: AUCell](../completed-notebooks/scRNA-seq-advanced/05-aucell.nb.html)
