@@ -52,6 +52,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 |           | [Exercise: AUCell](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_04-scrna_pathway.Rmd)
 |           | [Exercise: Evaluating cluster quality](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_05-cluster_evaluation.Rmd)
 |           | [Resources for consultation sessions](./workshop-resources.md)
+| 2:45 PM   | An Introduction to the OpenScPCA Project
 | 3:00 PM   | Participant Presentations!
 | 4:00 PM   | *Adjourn*
 
