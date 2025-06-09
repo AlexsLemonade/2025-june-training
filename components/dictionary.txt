@@ -76,6 +76,7 @@ Lun
 LTS
 Lyft
 macOS
+Manayunk
 miQC
 md
 modifided

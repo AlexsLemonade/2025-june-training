@@ -38,7 +38,7 @@ The planned schedule for the June 10-12, 2025 Data Lab Training Workshop appears
 |           | [Exercise: Differential Expression](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_03-diffexp.Rmd)
 |           | [Resources for consultation sessions](./workshop-resources.md)
 | 4:00 PM   | *Adjourn for the day*
-| 6:00 PM   | Workshop dinner (Location TBD)
+| 6:00 PM   | Workshop dinner: [Manayunk Brewing Company](https://manayunkbrewery.com/) <br> 4120 Main St, Philadelphia PA 19127
 |           |
 | **Day 3** | **2025-06-12**
 | 9:00 AM   | Questions and Review
